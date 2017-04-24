@@ -21,8 +21,7 @@ You can think of a condition as a requirement that must be met before something 
 
 
 ## What is a Conditional Statement? - Why are conditions used?
-Conditional statements are used to perform different actions based on different conditions. [w3]
-(https://www.w3schools.com/js/js_if_else.asp)
+Conditional statements are used to perform different actions based on different conditions. [w3](https://www.w3schools.com/js/js_if_else.asp)
 Imagine you are an ATM. How could you prevent someone from withdrawing more money than they have?? 
 - Ans: You must set a condition and then check for it.
 
