@@ -28,10 +28,10 @@ Imagine you are an ATM. How could you prevent someone from withdrawing more mone
 
 
 ## Name the condition 
-If you do your homework you will get a passing grade.
-    condition: Do homework.
-If you go to sleep early, you'll be able to stay awake in class. 
-    condition: sleep early.
+1. If you do your homework you will get a passing grade.
+   1.  condition: Do homework.
+1. If you go to sleep early, you'll be able to stay awake in class. 
+   1. condition: sleep early.
 
 ## The If statement
 The if statement is used to specify a block of code that can only be executed (or performed) when the condition is met.
