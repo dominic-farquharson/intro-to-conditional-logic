@@ -4,7 +4,7 @@
 
 ## Objectives
 - Be able to define what a condition is.
-- Be Able to make a program 'react’ to a condition
+- Be Able to make a program 'react' to a condition
 - Define an if statement
 - Define an else statement
 
@@ -12,9 +12,11 @@
 You can think of a condition as a requirement that must be met before something can be done.
 
 **Ex 1:** When you use your metrocard in a bus or subway, the bus/subway system is checking for a condition. That condition is whether or not you have money on your card! If the condition is met, you are allowed to ride on that bus/vehicle.
+
 <img src="http://ww1.prweb.com/prfiles/2012/06/05/9451397/Cole%20Haan%20Station%20Domination.jpg" height="300" width="300" style="display: block; margin: 0 auto;"/>
 
 **Ex 2:** When you go to a fast food restaurant, when is your order complete? Your order is complete **AFTER** you pay. That is the condition that must be met to receive your food.
+
 <img src="http://www.lonepinephoto.ca/image/42616/TEEN_WORKING_AS_CASHIER_AT_A_AND_W_FAST_FOOD_RESTAURANT_SASKATOON.jpg" height="300" width="300" style="display: block; margin: 0 auto;"/>
 
 
@@ -28,7 +30,7 @@ Imagine you are an ATM. How could you prevent someone from withdrawing more mone
 ## Name the condition 
 If you do your homework you will get a passing grade.
     condition: Do homework.
-If you go to sleep early, you’ll be able to stay awake in class. 
+If you go to sleep early, you'll be able to stay awake in class. 
     condition: sleep early.
 
 ## The If statement
@@ -58,7 +60,7 @@ Now let's rewrite the above example, using the comparison operator to see if Suz
 ```
 
 ## Example: 
-Let’s write an if statement that checks if a person has gotten an A on a test.
+Let's write an if statement that checks if a person has gotten an A on a test.
 
 ```javascript
 // example 2 - codepen
