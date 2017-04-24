@@ -66,7 +66,7 @@ if(grade === 'A') {
 
 Now we know that the alert will only execute when someone has received an A. But how could we send an alert if someone has not received an A?
 
-We could simply add another if statement but there is a better option. 
+We could add another if statement but is there a better option?
 
 ## Else Statement
 
@@ -84,17 +84,18 @@ if(condition) {
 Now let's add an else statement to our grade checker.
 
 ```javascript
-let grade = 'B’;
+let grade = 'B';
 
-if(grade === 'A’) {
- alert ('You have received an A!’);
+if(grade === 'A') {
+ alert ('You have received an A!');
 } else {
- alert ('You did not receive an A’);
+ alert ('You did not receive an A');
 }
 
 ```
 
 ## Quick Recap
+
 ### What is a condition?
      Ans: A requirement that must be met.
 ### Why are conditions used?
