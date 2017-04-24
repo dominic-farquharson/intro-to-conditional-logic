@@ -1,5 +1,7 @@
 # Intro to Conditional Logic
 
+### Codepen: [Link](https://codepen.io/dfarquharson/pen/eWdKYV?editors=0010)
+
 ## Objectives
 - Be able to define what a condition is.
 - Be Able to make a program 'react’ to a condition
@@ -10,8 +12,11 @@
 You can think of a condition as a requirement that must be met before something can be done.
 
 **Ex 1:** When you use your metrocard in a bus or subway, the bus/subway system is checking for a condition. That condition is whether or not you have money on your card! If the condition is met, you are allowed to ride on that bus/vehicle.
+<img src="http://ww1.prweb.com/prfiles/2012/06/05/9451397/Cole%20Haan%20Station%20Domination.jpg" height="300" width="300" style="display: block; margin: 0 auto;"/>
 
 **Ex 2:** When you go to a fast food restaurant, when is your order complete? Your order is complete **AFTER** you pay. That is the condition that must be met to receive your food.
+<img src="http://www.lonepinephoto.ca/image/42616/TEEN_WORKING_AS_CASHIER_AT_A_AND_W_FAST_FOOD_RESTAURANT_SASKATOON.jpg" height="300" width="300" style="display: block; margin: 0 auto;"/>
+
 
 ## What is a Conditional Statement? - Why are conditions used?
 Conditional statements are used to perform different actions based on different conditions. [w3]
@@ -43,6 +48,7 @@ Now let's rewrite the above example, using the comparison operator to see if Suz
 
 
 ``` javascript
+    // example 1 - codepen
     var status = 'paid';
 
     if(status === 'paid') {
@@ -55,7 +61,7 @@ Now let's rewrite the above example, using the comparison operator to see if Suz
 Let’s write an if statement that checks if a person has gotten an A on a test.
 
 ```javascript
-
+// example 2 - codepen
 let grade = 'A';
 
 if(grade === 'A') {
@@ -84,6 +90,7 @@ if(condition) {
 Now let's add an else statement to our grade checker.
 
 ```javascript
+// example 3 on codepen
 let grade = 'B';
 
 if(grade === 'A') {
